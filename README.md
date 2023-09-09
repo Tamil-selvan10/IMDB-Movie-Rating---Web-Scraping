@@ -1,2 +1,2 @@
-# IMDB-Movie-Rating---Web-Scraping
+# IMDB-Movie-Rating-WebScraping
 Web Scraping Using Python
